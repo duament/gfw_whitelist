@@ -159,6 +159,7 @@
 ||csdn.net
 ||css.net
 ||css.network
+||ctdsb.net
 ||ct10000.com
 ||ctrip.com
 
@@ -391,6 +392,7 @@
 ! P
 ||paipai.com
 ||panda.tv
+||panduoduo.net
 ||pcbeta.com
 ||pdcicons.ml
 ||pdim.gs
