@@ -47,6 +47,7 @@
 
 ! 4
 ||4399.com
+||4paradigm.com
 
 ! 5
 ||51.la
@@ -249,6 +250,7 @@
 ||huomao.com
 ||hupu.com
 ||huxiu.com
+||huxiucdn.com
 ||hxjyb.com
 ||hy233.tv
 
@@ -383,8 +385,10 @@
 ! O
 ||obsapp.com
 ||oekaki.so
+||okjike.com
 ||omico.me
 ||oneplusbbs.com
+||oneapm.com
 ||open-open.com
 ||ops.moe
 ||oray.com
@@ -440,6 +444,7 @@
 ||rsc.org
 ||ruanyifeng.com
 ||ruby-china.org
+||ruguoapp.com
 ||runoob.com
 
 ! S
