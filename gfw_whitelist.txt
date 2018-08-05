@@ -1,7 +1,8 @@
 ! cn
 ||cn
 
-! Regex
+! IP
+||/210\.42\.\d+\.\d+/
 
 ! Subdomain
 |https://az764295.vo.msecnd.net
