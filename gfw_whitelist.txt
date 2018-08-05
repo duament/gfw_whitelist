@@ -406,6 +406,8 @@
 ||paipai.com
 ||panda.tv
 ||panduoduo.net
+||paypal.com
+||paypalobjects.com
 ||pcbeta.com
 ||pdcicons.ml
 ||pdim.gs
