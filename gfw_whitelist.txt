@@ -116,6 +116,7 @@
 ||baidustatic.com
 ||bankcomm.com
 ||baozoumanhua.com
+||baydn.com
 ||bdimg.com
 ||bdstatic.com
 ||behe.com
@@ -465,6 +466,7 @@
 ||seele.tech
 ||segmentfault.com
 ||sf-express.com
+||shanbay.com
 ||shikezhi.com
 ||shimo.im
 ||shiyanlou.com
