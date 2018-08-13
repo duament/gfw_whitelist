@@ -336,7 +336,6 @@
 ||letvimg.com
 ||liaoxuefeng.com
 ||linuxidc.com
-||liyin.date
 ||lizhi.io
 ||lncld.net
 ||locvps.com
