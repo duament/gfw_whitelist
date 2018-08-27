@@ -340,6 +340,7 @@
 ||lncld.net
 ||locvps.com
 ||lofter.com
+||loli.net
 ||lolinet.com
 ||longzhu.com
 ||lucifr.com
@@ -492,6 +493,7 @@
 ||springerlink.com
 ||sspai.com
 ||stargame.com
+||staticfile.org
 ||steamcn.com
 ||suning.com
 ||sznews.com
