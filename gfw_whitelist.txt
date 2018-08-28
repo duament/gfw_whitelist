@@ -222,6 +222,7 @@
 ||freebuf.com
 
 ! G
+||ga.giuem.com
 ||gamersky.com
 ||ganji.com
 ||gank.io
