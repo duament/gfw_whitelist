@@ -166,6 +166,7 @@
 ||coding.net
 ||coolapk.com
 ||coolpad.com
+||cqvip.com
 ||csair.com
 ||csdn.net
 ||css.net
