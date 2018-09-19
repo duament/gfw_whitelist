@@ -419,6 +419,7 @@
 ||pengyou.com
 ||phonegap100.com
 ||phpcomposer.com
+||pigai.org
 ||pingwest.com
 ||pptv.com
 ||psnine.com
