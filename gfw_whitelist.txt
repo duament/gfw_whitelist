@@ -512,6 +512,7 @@
 ||tenxcloud.com
 ||tgbus.com
 ||thomsonreuters.com
+||tianmaying.com
 ||tietuku.com
 ||tigerlust.com
 ||tingyun.com
