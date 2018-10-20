@@ -203,6 +203,7 @@
 ||duowan.com
 ||dwstatic.com
 ||dygod.net
+||dynadot.com
 
 ! E
 ||eastmoney.com
