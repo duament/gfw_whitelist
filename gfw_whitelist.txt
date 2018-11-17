@@ -155,6 +155,7 @@
 ||chinaz.com
 ||chiphell.com
 ||chuangzaoshi.com
+||clewm.net
 ||cli.im
 ||cloudinary.com
 ||cloudxns.net
