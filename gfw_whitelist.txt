@@ -128,7 +128,6 @@
 ||bilibili.com
 ||biligame.com
 ||biligame.net
-||bing.com
 ||blackyau.cc
 ||blogjava.net
 ||bootcss.com
