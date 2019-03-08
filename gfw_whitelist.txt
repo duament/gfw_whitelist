@@ -602,6 +602,7 @@
 ||ydstatic.com
 ||yecdn.com
 ||yesky.com
+||yhd.com
 ||yiche.com
 ||yinxiang.com
 ||yixi.tv
