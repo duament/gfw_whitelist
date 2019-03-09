@@ -144,7 +144,6 @@
 ||cdnbee.com
 ||cdndm.com
 ||cdndm5.com
-||cdnst.net
 ||cdog.me
 ||ceair.com
 ||cee.network
