@@ -429,6 +429,7 @@
 ||phpcomposer.com
 ||pigai.org
 ||pingwest.com
+||pixivic.com
 ||pptv.com
 ||psnine.com
 ||pythonclub.org
