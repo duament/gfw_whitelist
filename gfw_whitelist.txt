@@ -616,6 +616,7 @@
 
 ! Z
 ||zaih.com
+||zdic.net
 ||zhan.com
 ||zhangyao.name
 ||zhanqi.tv
