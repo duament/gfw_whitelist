@@ -249,6 +249,7 @@
 ||hdslb.com
 ||hdslb.net
 ||hejie.me
+||hejizhan.com
 ||heweather.com
 ||hexun.com
 ||hexunimg.com
