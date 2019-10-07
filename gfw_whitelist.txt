@@ -83,7 +83,6 @@
 ||acfun.tv
 ||acg.tv
 ||acgvideo.com
-||acs.org
 ||aday01.com
 ||adf.ly
 ||aicheren.com
@@ -392,7 +391,6 @@
 ||mydrivers.com
 
 ! N
-||nature.com
 ||nekonazo.com
 ||netease.com
 ||netease.im
@@ -476,7 +474,6 @@
 ||sarm.net
 ||sb.sb
 ||sciencedirect.com
-||sciencemag.org
 ||sdo.com
 ||seele.tech
 ||segmentfault.com
