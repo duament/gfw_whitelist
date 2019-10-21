@@ -458,7 +458,6 @@
 
 ! R
 ||renren.com
-||researchgate.net
 ||rkecloud.com
 ||rkidc.net
 ||rlcdn.com
